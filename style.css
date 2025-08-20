@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.catalogo {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.item {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px #aaa;
+}
